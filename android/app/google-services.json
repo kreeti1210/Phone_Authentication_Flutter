@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "418812472283",
+    "project_id": "phone-verification-c7310",
+    "storage_bucket": "phone-verification-c7310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418812472283:android:06fad1352b3365d580d5fe",
+        "android_client_info": {
+          "package_name": "com.kreeti.phoneauth2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418812472283-hp4bnao4rvmle78v50tjl358qsrb9rj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kreeti.phoneauth2",
+            "certificate_hash": "1efc28139c29635fe9c6b3298a47a9d15c77a991"
+          }
+        },
+        {
+          "client_id": "418812472283-dgfarh3pafc1tj7pkr3pmfo06erdpjar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMjpo9GiinxZ2CqeIS_jMUDB_WWXC716A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418812472283-dgfarh3pafc1tj7pkr3pmfo06erdpjar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
